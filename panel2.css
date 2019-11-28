@@ -1,0 +1,19 @@
+.root {
+    -fx-background-image: url(https://66.media.tumblr.com/deb0a76c3014e98305f72ec4bdde3efb/tumblr_niuuw8PwTd1rrcri6o1_500.gif);
+    -fx-background-size: 160px;
+    -fx-background-position: left top;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: white;
+}
+
+.button {
+    -fx-background-radius: 50px;
+}
+
+.choice-box {
+    -fx-background-radius: 100px;
+}
+
+.picker__date-display {
+    -fx-background-radius: 100px;
+}

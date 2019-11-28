@@ -1,0 +1,11 @@
+.root {
+    -fx-background-image: url(http://66.media.tumblr.com/fa78e85a07e15c5b3b38b78bd985b808/tumblr_mjp4omG4cL1s10dr8o1_500.gif);
+    -fx-background-size: 800px;
+    -fx-background-position: left top;
+    -fx-background-repeat: no-repeat;
+    -fx-background-color: white;
+}
+
+.button {
+    -fx-background-radius: 50px;
+}

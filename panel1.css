@@ -1,0 +1,22 @@
+.root {
+    -fx-background-image: url(https://orig00.deviantart.net/e133/f/2018/164/2/1/_custom_box_background__i_believe_in_pink_by_king_lulu_deer-dce971x.gif);
+    -fx-background-size: 800px;
+    -fx-background-position: left top;
+    -fx-background-repeat: no-repeat;
+}
+
+.button {
+    -fx-background-radius: 50px;
+}
+
+.picker__date-display {
+    -fx-background-radius: 100px;
+}
+
+.text-field {
+    -fx-background-radius: 100px;
+}
+
+.choice-box {
+    -fx-background-radius: 100px;
+}
